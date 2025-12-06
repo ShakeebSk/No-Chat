@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "whatsapp-backend-a4b3e",
+                    "appId": "1:705540766766:android:258979f761030a621c33bf",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "whatsapp-backend-a4b3e",
+                    "configurations": {
+                        "android": "1:705540766766:android:258979f761030a621c33bf",
+                        "ios": "1:705540766766:ios:7f7111cdb976a3a81c33bf"
+                    }
+                }
+            }
+        }
+    }
+}
