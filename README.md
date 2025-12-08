@@ -1,6 +1,6 @@
 <h1 align="center">💬 No-Chat – Real-Time Chat Application</h1>
 
-<p align="center"><em>[translate:पूर्ण सुविधा युक्त व्हाट्सएप जैसा मैसेजिंग ऐप]</em></p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/ShakeebSk/No-Chat?color=blue&label=Last%20Commit">
@@ -20,7 +20,7 @@
 
 ---
 
-# 🚀 No-Chat — [translate:रीयल-टाइम चैट एप्लिकेशन]
+# 🚀 No-Chat
 
 **No-Chat** is a fully-featured real-time messaging application supporting 200+ users with 1:1 chats, group conversations, voice/video calls, status updates, and rich media sharing.  
 Built with Flutter & Firebase, it delivers WhatsApp-like experience across platforms.
