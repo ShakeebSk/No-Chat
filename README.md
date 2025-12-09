@@ -25,9 +25,9 @@
 **No-Chat** is a fully-featured real-time messaging application supporting 200+ users with 1:1 chats, group conversations, voice/video calls, status updates, and rich media sharing.  
 Built with Flutter & Firebase, it delivers WhatsApp-like experience across platforms.
 
-Designed as a **[translate:अंतिम वर्ष इंजीनियरिंग परियोजना]**, No-Chat showcases modern mobile development and real-time systems.
+Designed as a **[translate:]**, No-Chat showcases modern mobile development and real-time systems.
 
-> 💬 *"[translate:संदेश भेजें, कॉल करें, जुड़ें।]"*
+> 💬 *"[translate:।]"*
 
 ---
 
