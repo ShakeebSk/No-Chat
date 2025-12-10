@@ -35,8 +35,8 @@ Designed as a **[translate:]**, No-Chat showcases modern mobile development and 
 
 No-Chat provides complete messaging experience with:
 
-- [translate:रीयल-टाइम 1:1 चैट]
-- [translate:ग्रुप चैट्स]
+- [translate:]
+- [translate:]
 - [translate:वॉइस कॉल्स]
 - [translate:वीडियो कॉल्स]
 - [translate:स्टेटस अपडेट्स]
