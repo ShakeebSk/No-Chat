@@ -37,9 +37,9 @@ No-Chat provides complete messaging experience with:
 
 - [translate:]
 - [translate:]
-- [translate:वॉइस कॉल्स]
-- [translate:वीडियो कॉल्स]
-- [translate:स्टेटस अपडेट्स]
+- [translate:]
+- [translate:]
+- [translate:]
 - Media sharing (images, videos, documents, voice notes)
 - [translate:ऑनलाइन/ऑफलाइन स्थिति]
 
