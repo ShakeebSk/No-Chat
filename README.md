@@ -41,7 +41,7 @@ No-Chat provides complete messaging experience with:
 - [translate:]
 - [translate:]
 - Media sharing (images, videos, documents, voice notes)
-- [translate:ऑनलाइन/ऑफलाइन स्थिति]
+- [translate:  ]
 
 It’s a complete end-to-end chat solution.
 
