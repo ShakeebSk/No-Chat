@@ -35,13 +35,13 @@ Designed as a **[translate:]**, No-Chat showcases modern mobile development and 
 
 No-Chat provides complete messaging experience with:
 
-- [translate:]
-- [translate:]
-- [translate:]
-- [translate:]
-- [translate:]
+-Real Time Text Messages
+-Voice Chat
+-Group Chat
+-Voice Call
+-Video Call
 - Media sharing (images, videos, documents, voice notes)
-- [translate:  ]
+
 
 It’s a complete end-to-end chat solution.
 
