@@ -27,13 +27,15 @@ Built with Flutter & Firebase, it delivers WhatsApp-like experience across platf
 
 Designed as a **[translate:]**, No-Chat showcases modern mobile development and real-time systems.
 
-> 💬 *"[translate:।]"*
+> 💬 *"[translate:।]"
+
 
 ---
 
 # 📱 What Is No-Chat?
 
 No-Chat provides complete messaging experience with:
+it's a clone of WhatsApp 
 
 -Real Time Text Messages
 -Voice Chat
