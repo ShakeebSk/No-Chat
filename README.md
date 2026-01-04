@@ -100,3 +100,6 @@ It’s a complete end-to-end chat solution.
 
 # 🧪 Environment Configuration
 
+
+# Folder Structure 
+
