@@ -53,7 +53,7 @@ It’s a complete end-to-end chat solution.
 
 | Component | Description |
 |-----------|-------------|
-| 🔐 **Auth System** | Firebase Authentication (Phone/Email) |
+| 🔐 **Auth System** | Firebase Authentication (Phone) |
 | 💬 **Chat Engine** | Firestore real-time messaging |
 | 📞 **Call System** | WebRTC voice/video calls |
 | 📱 **Status** | 24-hour stories with images/videos |
